@@ -1,0 +1,27 @@
+47823
+David Nsoesie
+true
+56711
+Michael Jackson
+False
+5949
+Chase
+False
+8420
+Viacom
+True
+6787
+Macro
+true
+8999
+GREEN
+true
+7888
+Glow
+true
+5666
+TRUMA
+false
+4589
+TRUEMAN
+true
